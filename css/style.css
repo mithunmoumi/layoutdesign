@@ -1,0 +1,124 @@
+body{
+	margin: 0;
+}
+
+img{
+	 max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 6px 6px 15px #7d7979b8;
+}
+.bgcolor{
+	background-color:#f7c5b69c;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    background: #ffffff;
+
+}
+
+h1{
+    font-size: 80px;
+    margin: 0;
+   border-bottom: 2px solid gray; 
+}
+
+.tw1{
+	color: blue;
+}
+.tw2{
+	color:orange ;
+}
+.tw3{
+	color:purple;
+}
+.tw4{
+	color: yellow;
+}
+.tw5{
+	color: #E91E63;
+}
+.tw6{
+	color:green;
+}
+.tw7{
+	color:orange;
+}
+.tw8{
+	color:#FF5722;
+}
+.tw9{
+	color: olive;
+}
+
+
+h2{
+    font-size: 30px;
+    margin: 0;
+ padding: 35px;
+ color: #7b5252;
+
+}
+.c1{
+	color: #E91E63;
+}
+.c2{
+	color: blue;
+}
+.c3{
+	color: orange;
+}
+.c4{
+	color: green;
+}
+h4{
+padding: 10px;
+    margin-top: 25px;
+    font-size: 25px;
+    /* text-align: left; */
+    margin-bottom: 0;
+    color: #bd778f;
+    
+    text-shadow: 5px 5px 12px #8274788f
+}
+h3{
+font-size: 40px;
+margin:0;
+color: #d66744;
+padding: 40px 0 10px;
+}
+
+
+.post{
+	width: 33.33%;
+	float: left;
+	/*background-color: #d3b4e23d*/;
+	margin-bottom: 35px;
+}
+
+.img{
+	
+padding: 10px;
+}
+
+
+	
+h6{
+	font-size: 50px;
+    margin:0;
+    padding: 110px;
+    color: #bf3665;
+    background: #7f6b8c7a;
+	border-radius: 5px;
+}
+
+.ptext{
+margin: 0;
+    text-align: left;
+    font-size: 35px;
+    background: #fff;
+    padding-left: 10px;
+    color: #052f44;
+    /*padding-bottom: 20;*/
+}
